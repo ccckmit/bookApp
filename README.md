@@ -15,8 +15,7 @@
 ```
 $ npm i -g electron
 $ git clone https://github.com/ccckmit/bookApp.git
-$ cd bookApp
+$ cd bookApp/electron
 $ npm install
-$ cd electron
 $ electron .
 ```
